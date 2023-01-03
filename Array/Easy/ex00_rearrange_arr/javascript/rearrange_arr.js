@@ -1,3 +1,5 @@
+// O(n)
+
 function rearrange_arr(arr, n){
     var i, tmp
     for (i = 0; i < n; i++){
